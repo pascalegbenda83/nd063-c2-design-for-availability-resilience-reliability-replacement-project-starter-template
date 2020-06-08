@@ -14,7 +14,7 @@ Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.
 MySQL [(none)]>
 
 
-********** SHOWING AND ACCESSING THE testDB **********
+********** SHOWING AND ACCESSING THE testDB DATABASE **********
 
 MySQL [(none)]> show databases;
 +--------------------+
